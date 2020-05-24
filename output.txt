@@ -1,0 +1,6 @@
+Word repeat 
+Word random 
+Word rerun 
+Word redim 
+Word repeat 
+End of work
